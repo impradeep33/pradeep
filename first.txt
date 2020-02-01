@@ -1,1 +1,1 @@
-This is a git session
+This is a git session. this is first commit.
